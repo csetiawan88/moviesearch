@@ -2,7 +2,7 @@
 
 ## Link to Deployed Application
 
-A link to the deployed application can be found here: https://annalisedev.github.io/moviesearch/ 
+A link to the deployed application can be found here: https://csetiawan88.github.io/moviesearch/
 
 ## Description
 
